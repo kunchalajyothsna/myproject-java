@@ -1,7 +1,7 @@
-public class Msg {
+public class msg {
 	public static void main(String[] args) {
-		system.out.println("welcome to git session");
-		system.out.println("good morning!!!");
+		System.out.println("welcome to git session");
+		System.out.println("good morning!!!");
 	}
 }
 
